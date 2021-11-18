@@ -1,0 +1,11 @@
+.completed {
+  text-decoration: line-through !important;
+}
+.wrapper-todo {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon-delete {
+  transform: translateY(8px);
+}
